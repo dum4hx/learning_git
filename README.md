@@ -1,4 +1,2 @@
 # Learning Git
-
-## Description
-Some description
+Some description?
